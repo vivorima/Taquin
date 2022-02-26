@@ -4,3 +4,12 @@
 #Description
 
 the solver will attempt to solve the puzzle using the A* search algorithm.
+
+ 
+
+
+The manhattan distance is claculated between the current state of the game and the solution 
+
+Once the solver finds a path towards a solution, the number of nodes visited by the A* algorithm is shown
+ 
+
